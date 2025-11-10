@@ -1,0 +1,7 @@
+venv/
+*.venv/
+env/
+__pycache__/
+test_data/
+train_data/
+best_model_early_stopping.pt
