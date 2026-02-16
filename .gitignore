@@ -7,3 +7,4 @@ train_data/
 best_model_early_stopping.pt
 check_notebook.py
 fix_fashion.py
+fix_nb.py
